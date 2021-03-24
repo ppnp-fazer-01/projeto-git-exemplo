@@ -1,0 +1,12 @@
+meus dados:
+
+nome: Groger
+
+idade: 70
+
+cidade: SP
+
+linguagem favorita: Python
+
+O que groger faz com a linguagem: Machine learning
+
